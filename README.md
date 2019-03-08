@@ -6,7 +6,7 @@ create. All code is kept to a bare minimum to implement a movie list application
 
 ### Getting Started
 
-####I. For a fresh Ubuntu installation, get Python3 all setup and ready to go: 
+#### I. For a fresh Ubuntu installation, get Python3 all setup and ready to go: 
 ```bash
 sudo apt-get update && sudo apt-get install -y \
 		build-essential git \
@@ -20,14 +20,14 @@ sudo apt-get update && sudo apt-get install -y \
 sudo apt install -y virtualenv python3-venv
 ```
 
-####II. Get your project ready:
+#### II. Get your project ready:
 ```bash
 git clone https://github.com/MattAndrzejczuk/Django-2-Ultra-Simple-Example.git
 cd Django-2-Ultra-Simple-Example
 python3 -m venv env
 ```
 
-####III. Download Dependencies
+#### III. Download Dependencies
 ```bash
 source ./env/bin/activate
 pip install -r requirements.txt
