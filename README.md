@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ./manage.py runserver
 ```
 ##### App Main Page:
-http://127.0.0.1/
+http://127.0.0.1:8000/
 
 ##### Edit Content For Main Page:
-http://127.0.0.1/admin
+http://127.0.0.1:8000/admin
